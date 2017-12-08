@@ -4,4 +4,5 @@ public static char[] makeAbba(String a, String b)
 {	 char1[] = a.toChararray();
 	 char2[] = b.toChararray();
 	return char1[] + char2[] + char1[] + char2[]; }
+	#testing
 
