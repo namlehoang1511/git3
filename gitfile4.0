@@ -1,8 +1,2 @@
-// Given two strings, a and b, return the result of putting them together in the order abba,
-// e.g. "Hi" and "Bye" returns "HiByeByeHi".
-public static char[] makeAbba(String a, String b)
-{	 char1[] = a.toChararray();
-	 char2[] = b.toChararray();
-	return char1[] + char2[] + char1[] + char2[]; }
-	#testing
-
+public static void makeAbba(String a, String b)
+{	 Systems.out.println(a+b+b+a);	}
